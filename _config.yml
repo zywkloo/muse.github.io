@@ -6,7 +6,7 @@ url: "https://zywkloo.github.io" # for test: remove string 'http://victorvoid.gi
 
 # User settings
 username: Yiwei Zhang
-user_title: SwiftUI/React Native/Node.js Developer
+user_title: React/Node.js/Swift Developer
 email: yiweizhangca@gmail.com
 twitter_username: zywkloo
 github_username:  zywkloo
@@ -29,26 +29,23 @@ compress_html:
 # Links to include in menu navigation
 links:
   section_1:
-    - title: home
+    - title: Home
       url: /
       key_trigger: 1
-    - title: my posts
-      url: /posts
-      key_trigger: 2
-    - title: series
+    - title: Posts
       url: /series
-      key_trigger: 3
-    - title: tags
+      key_trigger: 2
+    - title: Tags
       url: /tags
-      key_trigger: 4
-    - title: about me
+      key_trigger: 3
+    - title: About Me
       url: /about
-      key_trigger: 5
+      key_trigger: 4
   section_2:
-    - title: AI Ethics
+    - title: AI
       url: /BoardGameAIDevelopment/
       key_trigger: a
-    - title: Space Walkthrough
+    - title: Gaming
       url: /space/
       key_trigger: p
     - title: search
@@ -58,18 +55,16 @@ links:
 # projects in header index
 
 projects:
-  - name: Xchangerator - Exchange Rates w/ Express & SwiftUI
-    url: https://www.xchangerator.com
+  - name: TutorOcean iOS App - Node.js & SwiftUI
+    url: https://apps.apple.com/ca/app/tutorocean/id1480876532
   - name: cuHacking20 Winner - Plotly Data Visualiztion 
     url: https://devpost.com/software/murder-on-2nd-floor-web-forensic-analyzer
   - name: cuHacking19 Winner - AWS Connect Integration
     url: https://devpost.com/software/cuhackingamazonconnect
+  - name: Xchangerator(Exchange Rate Query) - Express & SwiftUI
+    url: https://github.com/zywkloo/Xchangerator
   - name: Mobile Game Wild Dunk (全民大灌篮)
     url: https://www.youtube.com/watch?time_continue=6&v=ysmp5vK4R_c
-  - name: TutorOcean Android app w/ React Native
-    url: https://play.google.com/store/apps/details?id=com.tutorocean
-  - name: TutorOcean iOS app w/ React Native
-    url: https://apps.apple.com/app/apple-store/id1480876532
   - name: GameAI:Tank Tournament w/ Pygame
     url: https://github.com/zywkloo/Tank-Game-AI-Tournament
   - name: Insomnia-Dungeon. Mini game w/ Pygame
